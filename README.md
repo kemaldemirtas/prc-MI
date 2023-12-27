@@ -1,4 +1,8 @@
-This depository contains six different matlab file.
+This depository contains six different matlab file and supplementary files. 
+
+Supplementary Material 2: Available data for MI results of Ubiquitin.
+
+Supplementary Material 3-6: Available data for MI results of PLpro.
 
 deviation: This file reads dcd files and calculates magnitude of each coordinates for each time step. It needs to be run before calculating exact anisotropic, multivariate Gaussian, exact isotropic and Gaussian isotropic mutual information.
 
